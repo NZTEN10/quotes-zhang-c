@@ -8,6 +8,8 @@ def menu():
     print("3. Add quotes")
     print("4. Exit")
 
+    print("3. Exit")
+
 
 def main():
     while True:
@@ -21,13 +23,20 @@ def main():
         elif choice == "2":
             view_quotes(quotes)
         elif choice == "3":
+
             add_quotes(quotes,"quotes.txt")
         elif choice == "4":
+
             print("Good bye...")
             break
         else:
             print("Invalid input")
 
 
+
 if __name__ == "__main__":
     main()
+
+if __name__ == "__main__":
+    main()
+

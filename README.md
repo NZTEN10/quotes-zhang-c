@@ -8,9 +8,9 @@ A python program that generates programming quotes and jokes.
 - `initiator`: ZHANG Nicolas Group C
 - `contributor-1`: CHIN John Group C
 - `contributor-2`: LALLIER Gabriel Group C 
-- `contributor-3`: L'HERMINé Anthime Group C 
+- `contributor-3`: L'HERMINÉ Anthime Group C 
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
-- `contributor-3`: [quotes-toto-b](url-3)
+- `contributor-1`: [quotes-chin-c](https://github.com/johnjlg622/quotes-chin-c.git)
+- `contributor-2`: [quotes-lallier-c](https://github.com/Captainors05/quotes-lallier-c.git)
+- `contributor-3`: [quotes-l'herminé-c](https://github.com/AnthimeLh/quotes-l-hermin--c.git)
